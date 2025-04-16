@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\hello\\Password_Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59134226-9129-45C8-B4D3-5427C1B19820}|Password_Generator\\Password_Generator.csproj|c:\\users\\administrator\\desktop\\hello\\password_generator\\password_generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59134226-9129-45C8-B4D3-5427C1B19820}|Password_Generator\\Password_Generator.csproj|solutionrelative:password_generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\hello\\Password_Generator\\Password_Generator\\Program.cs",
+              "RelativeDocumentMoniker": "Password_Generator\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\hello\\Password_Generator\\Password_Generator\\Program.cs",
+              "RelativeToolTip": "Password_Generator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:56:55.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

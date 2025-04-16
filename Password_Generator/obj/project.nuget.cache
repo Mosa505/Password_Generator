@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZDx2lcQSMM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\hello\\Password_Generator\\Password_Generator\\Password_Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
